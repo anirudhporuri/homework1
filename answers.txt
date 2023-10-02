@@ -6,4 +6,9 @@ exact same. A rebase will physically move the current branch to the tip of the m
 branch, re-writing the project history by creating brand new commits for each 
 commit in the original branch.
 
+What is a remote repository? 
+A remote repository is a version of your project that is hosted on the internet.
+It is useful especially for collaboratory purposes, since not everyone shares the
+same device. It is also useful for backing up your project, and tracing file 
+histories.
 
